@@ -1,1 +1,2 @@
+# Diabetes_Classification_System
 This project focuses on building and evaluating machine learning classification models to predict diabetes in patients using clinical and diagnostic health measurements. Different models were trained and compared to identify the most accurate predictive approach.
